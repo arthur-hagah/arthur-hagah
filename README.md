@@ -6,6 +6,9 @@
       arthurhenrique77@gmail.com
       www.linkedin.com/in/arthur-colaço-289a99202
 
+  Please, check some of my coding learning on OOP in Java:
+https://github.com/arthur-hagah/OOP-Exercises
+
 
 <!---
 arthur-hagah/arthur-hagah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
